@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **DevSecOps & Kubernetes and Github actions**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Aj7Ay](https://github.com/Aj7Ay)
+- 👨‍💻 All of my projects are available at [https://github.com/00-ani-00](https://github.com/Aj7Ay)
 
-- 📫 How to reach me **postbox.aj99@gmail.com**
+- 📫 How to reach me **aniketlagad6@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

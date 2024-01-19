@@ -18,7 +18,7 @@
 
 ![](https://komarev.com/ghpvc/?username=yatharth0045&style=flat-square&color=blue)
 
-🏢 I’m currently working in Hissan Labs as **DevOps Engineer**
+🏢 I’m currently working in INFOVILLE SOLUTIONS INDIA PRIVATE LIMITED as **DevOps Engineer**
 
 🌱 I’m currently working on **Setting up infra using Terraform over AWS**
 
